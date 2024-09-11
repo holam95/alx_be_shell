@@ -1,5 +1,5 @@
-#README.md file
-will contain informations about scripts and shell command learning
+#README FILE
+this will comtain information about baasic shell command sleaarning excercises and script infos
 
-#Script 1 0-iam_betty
-conatins script to change user to betty
+#script 1 0-iam_betty
+conatins command for change user to betty
