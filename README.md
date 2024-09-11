@@ -1,3 +1,4 @@
+#!/bin/bash
 #README FILE
 this will comtain information about baasic shell command sleaarning excercises and script infos
 
